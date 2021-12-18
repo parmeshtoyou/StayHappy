@@ -1,0 +1,2 @@
+# Stay Happy
+It is a simple motivational quotes app build in Android. It supports multiple app resolutions and orientation. User will receive notification for motivational quotes. This application will try to keep motivated.
